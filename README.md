@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @thycaud
+- 👀 I’m interested in Web 3.0
+- Learning React
